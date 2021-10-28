@@ -1,5 +1,7 @@
 ### Hi there 👋
-<a> My Github page has a total of </br><img src="https://komarev.com/ghpvc/?username=ERESB0S&color=dc143c&label=views&color=6182e1" alt="Eresbos"/></a>
+
+## Profile Stats
+</br><img src="https://komarev.com/ghpvc/?username=ERESB0S&color=dc143c&label=Visitors&color=6182e1" alt="Eresbos"/>
 ```js
 module.exports = class Eresbos extends Client {
   constructor() {
