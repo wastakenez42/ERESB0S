@@ -5,8 +5,9 @@
 ```js
 module.exports = class Eresbos extends Client {
   constructor() {
-    this.eresbos = "Eresbos#1706"
-    this.sex = "Male"
+    this.eresbos = "Eresbos#1706";
+    this.sex = "Male";
+    this.age = 20;
   }
 }
 ```
