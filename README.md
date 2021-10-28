@@ -1,16 +1,11 @@
 ### Hi there 👋
-
-<!--
-**ERESB0S/ERESB0S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br><img src="https://komarev.com/ghpvc/?username=ERESB0S&color=dc143c&label=Visitor&color=6182e1" alt="Eresbos"/>
+```js
+module.exports = class Eresbos extends Client {
+  constructor() {
+    this.eresbos = "Eresbos#1706"
+    this.sex = "Male"
+  }
+}
+```
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/239330400223232000?hideDiscrim=true)](https://discord.com/users/239330400223232000)
