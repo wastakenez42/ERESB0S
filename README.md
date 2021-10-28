@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Profile Stats
+<h3>Profile Stats</h3>
 </br><img src="https://komarev.com/ghpvc/?username=ERESB0S&color=dc143c&label=Visitors&color=6182e1" alt="Eresbos"/>
 ```js
 module.exports = class Eresbos extends Client {
