@@ -12,4 +12,5 @@ module.exports = class Eresbos extends Client {
 }
 ```
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/907246062459318323?hideDiscrim=true)](https://discord.com/users/907246062459318323)
 <img src="https://github-readme-stats.vercel.app/api?username=ERESB0S&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
