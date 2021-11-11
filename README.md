@@ -1,17 +1,51 @@
-### Hi there 👋
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+This is where I open something open source and improve things :yum:
 
-<h4>Profile Stats</h4><img src="https://komarev.com/ghpvc/?username=ERESB0S&color=dc143c&label=Visitors&color=6182e1" alt="Eresbos"/>
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://instagram.com/umit.berk17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umit.berk17" height="30" width="40" /></a>
+<a href="https://discord.gg/x8Uw4KTK5p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Eresbos#1706" height="30" width="40" /></a>
+  
+📊 &nbsp;**This week I spent my time on**
 
-```js
-module.exports = class Eresbos extends Client {
-  constructor() {
-    this.eresbos = "Eresbos#1706";
-    this.sex = "Male";
-    this.age = 20;
-  }
-}
+![Wwakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eresbos&bg_color=00000000&text_color=777&hide_title=true&hide_border=true&langs_count=5)
+<details>
+  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <br/>
+
+I am a full professional developer using JavaScript on the Discord platform for over 2 years.
+  
+  📊 &nbsp;**Profile Views**
+  <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ERESB0S&color=dc143c&label=Visitors&color=6182e1" alt="Eresbos"/>
+
+[⏩ &nbsp; and many more](https://github.com/ERESB0S?tab=repositories&q=&type=source&language=&sort=stargazers) 
+
 ```
+  ____                  ____                      
+ / __ \___  ___ ___    / __/__  __ _____________  
+/ /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
+\____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/  
+   _/_/                  __  __   _               
+  / __/  _____ ______ __/ /_/ /  (_)__  ___ _     
+ / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
+/___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
+                 /___/                /___/       
+```
+</details>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/907246062459318323?hideDiscrim=true)](https://discord.com/users/907246062459318323)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eresbos&bg_color=00000000&text_color=777&hide_title=true&hide_border=true&langs_count=5)
-<img src="https://github-readme-stats.vercel.app/api?username=ERESB0S&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+<details>
+  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
+  <br/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> <a href="https://mongoosejs.com/docs/api.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
+
+</details>
+    
+<details>
+  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
+  <br/>
+  <a href='https://profile.codersrank.io/user/eresb0s/'>
+  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=eresb0s&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
+  </a>
+
+</details>
