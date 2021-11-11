@@ -13,5 +13,5 @@ module.exports = class Eresbos extends Client {
 ```
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/907246062459318323?hideDiscrim=true)](https://discord.com/users/907246062459318323)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eresbos&bg_color=00000000&text_color=777&hide_title=true&hide_border=true&langs_count=5)]
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eresbos&bg_color=00000000&text_color=777&hide_title=true&hide_border=true&langs_count=5)
 <img src="https://github-readme-stats.vercel.app/api?username=ERESB0S&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
