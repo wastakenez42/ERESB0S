@@ -4,7 +4,7 @@ This is where I open something open source and improve things :yum:
 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://instagram.com/umit.berk17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umit.berk17" height="30" width="40" /></a>
-<a href="https://discord.gg/x8Uw4KTK5p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Eresbos#1706" height="30" width="40" /></a>
+<a href="https://discord.gg/305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Eresbos#1706" height="30" width="40" /></a>
   
 📊 &nbsp;**This week I spent my time on**
 
