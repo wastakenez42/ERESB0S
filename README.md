@@ -7,7 +7,9 @@ This is where I open something open source and improve things :yum:
 <a href="https://discord.gg/305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Eresbos#1706" height="30" width="40" /></a>
   
 📊 &nbsp;**This week I spent my time on**
-
+  
+<img src="https://wakatime.com/badge/user/bdbb4298-9c5e-48de-9c4c-b60c034820ca.svg?style=flat" alt="Eresbos"/>
+  
 ![Wwakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eresbos&bg_color=00000000&text_color=777&hide_title=true&hide_border=true&langs_count=5)
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
